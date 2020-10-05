@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 7679,
+      "title": "Тинькофф Путешествия",
+      "logo": "/pkd/uploads/campaigns/8057.jpg",
+      "link": "https://promo.habr.com/offer/tinkoff-travel",
+      "base_url": "https://www.tinkoff.ru/travel/flights/"
+    },
+    {
+      "id": 1541,
+      "title": "Тинькофф",
+      "logo": "/pkd/uploads/campaigns/1833.jpg",
+      "link": "https://promo.habr.com/offer/tinkoff-bank",
+      "base_url": "https://www.tinkoff.ru/"
+    },
+    {
+      "id": 487,
+      "title": "Тинькофф Страхование",
+      "logo": "/pkd/uploads/campaigns/648.jpg",
+      "link": "https://promo.habr.com/offer/tinkoff-strahovanie",
+      "base_url": "https://www.tinkoffinsurance.ru/"
+    }
+  ]
+}

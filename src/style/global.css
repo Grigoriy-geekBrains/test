@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  margin: 20px auto;
+}
+
+.title{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.wrapper{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 28px;
+  color: whitesmoke;
+}
+.product-title{
+  display: flex;
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 18px;
+}
+.product-title:hover{
+  color: aquamarine;
+}
+
+.container .product-item,
+.container .page-item{
+  display: flex;
+  color: antiquewhite;
+  justify-content: space-between;
+  border-bottom: 2px solid whitesmoke;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.preload{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 50px;
+  background-color: rgba(0,0,0,0.5);
+  margin: 0;
+}
