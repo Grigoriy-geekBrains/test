@@ -3,6 +3,8 @@
 2) npm run build (1ый раз)
 3) npm run server
 
+Доступ по ссылке - http://localhost:3000
+
 ### Общее
 Данные берутся с сервера и туда же записываются:
  - для продуктов - ./server/products.json
